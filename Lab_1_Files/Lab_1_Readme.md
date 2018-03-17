@@ -1,10 +1,10 @@
 # Installation Jenkins on Ubuntu 16
 
 ## Resources used in this tutorial
-	* Ubuntu 16
+ - Ubuntu 16
 
 # Jenkins Installation 
-	* Installation commands :
+ - Installation commands :
 		wget -q -O - https://pkg.jenkins.io/debian/jenkins-ci.org.key | sudo apt-key add -
 		sudo sh -c 'echo deb http://pkg.jenkins.io/debian-stable binary/ > /etc/apt/sources.list.d/jenkins.list'
 		sudo apt-get update
