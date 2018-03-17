@@ -16,9 +16,9 @@
  - Verfication : 
 		Acess Jenkins from the browser by using the IP:8080
 		
-  - Refrences :
-	       - https://wiki.jenkins.io/display/JENKINS/Installing+Jenkins+on+Ubuntu
-	       - https://jenkins.io/doc/pipeline/tour/getting-started/
+ - Refrences :
+   - https://wiki.jenkins.io/display/JENKINS/Installing+Jenkins+on+Ubuntu
+   - https://jenkins.io/doc/pipeline/tour/getting-started/
 		
 
 		
