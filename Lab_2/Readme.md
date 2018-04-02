@@ -1,3 +1,3 @@
 # Using Jenkins to make a simple delivery pipline
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/mahmoudrasmy/Jenkins/blob/master/Lab_2/Deployment_Architecture.PNG)
