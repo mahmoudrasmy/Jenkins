@@ -22,7 +22,7 @@ List of Hands-on Labs on Jenkins
 * stages
 * post
 
-- Refrences :
+# Refrences
    - https://wiki.jenkins.io/display/JENKINS/Installing+Jenkins+on+Ubuntu
    - https://jenkins.io/doc/pipeline/tour/getting-started/
 		
