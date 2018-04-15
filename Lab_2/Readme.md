@@ -8,4 +8,4 @@
 - Create a repo in a github 
 - Create a simple project for nodejs 
 - Create a project in jenkins 
-- Define the statges of the project
+- Define the stages of the project
